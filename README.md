@@ -7,3 +7,6 @@ I am a 23 year old software engineer based out of Addison, Illinois
 - 💬 Ask me about anything!
 - 📫 How to reach me: hmontoya3821@gmail.com
 - ⚡ Fun fact: I am a sucker for bread, especially mexican bread
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montoya1256&show_icons=true&theme=radical)
+)](https://github.com/anuraghazra/github-readme-stats)
